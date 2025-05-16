@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Eduardo Pereira Lima!</h1>
 
 <p align="center">
-  <img src="./A_digital_graphic_design_banner_showcases_Eduardo_.png" alt="Banner Eduardo Pereira" />
+  <img src=".https://github.com/EduardoPereiraLima-Dev/EduardoPereira/blob/main/public/bg-explosion.png" alt="Banner Eduardo Pereira" />
 </p>
 
 ## 🚀 Desenvolvedor Front-End apaixonado por tecnologia, aprendizado constante e soluções inteligentes.
