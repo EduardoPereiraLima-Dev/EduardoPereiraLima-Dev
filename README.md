@@ -1,8 +1,8 @@
-<p align="center">
 <h1 align="center">👋 Olá, eu sou o Eduardo Pereira Lima!</h1>
 
-
-  <img src="https://github.com/EduardoPereiraLima-Dev/EduardoPereira/blob/main/public/bg-explosion.png" alt="Banner Eduardo Pereira" />
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Banner animado" width="100%" />
+</p>
 
 <p align="center">
   <b>Transformando Ideias em Realidade Digital 🚀</b>
@@ -17,14 +17,12 @@
 ## 🛠️ Tecnologias que mais utilizo:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/VgG2z63bR8Z9xvrhJj/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50" />
 </div>
 
 ---
@@ -51,17 +49,16 @@
 
 <div align="center">
   <a href="https://github.com/EduardoPereiraLima-Dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" />
   </a>
-  </p>
   <a href="https://www.linkedin.com/in/eduardo-pereira-lima-7580a5239">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="40" />
   </a>
   <a href="https://t.me/@E967484018">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" />
+    <img src="https://media.giphy.com/media/SvQ7tWn8zeY2k/giphy.gif" width="40" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5511967484018">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" />
+    <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="40" />
   </a>
 </div>
 
