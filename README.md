@@ -1,8 +1,8 @@
+<p align="center">
 <h1 align="center">👋 Olá, eu sou o Eduardo Pereira Lima!</h1>
 
-<p align="center">
+
   <img src="https://github.com/EduardoPereiraLima-Dev/EduardoPereira/blob/main/public/bg-explosion.png" alt="Banner Eduardo Pereira" />
-</p>
 
 <p align="center">
   <b>Transformando Ideias em Realidade Digital 🚀</b>
@@ -53,6 +53,7 @@
   <a href="https://github.com/EduardoPereiraLima-Dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
+  </p>
   <a href="https://www.linkedin.com/in/eduardo-pereira-lima-7580a5239">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
